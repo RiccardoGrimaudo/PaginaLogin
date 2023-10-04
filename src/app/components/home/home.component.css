@@ -1,0 +1,9 @@
+img.rounded.mx-auto.d-block {
+    max-width: 60%; /* Larghezza massima desiderata */
+    max-height: 55%; /* Mantenere l'aspetto originale */
+}
+
+img.card-img-top {
+    max-width: 100%; /* Larghezza massima desiderata */
+    max-height: 50%;
+}
